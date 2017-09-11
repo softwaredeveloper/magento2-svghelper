@@ -1,4 +1,4 @@
-# Magento 2 SVG Helper
+# Magento 2 SVG Helper # [Freelance Magento Developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
 
 Simple module that provides a block level helper for reading in an SVG files source from a theme in Magento 2.
 
